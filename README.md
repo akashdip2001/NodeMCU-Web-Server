@@ -116,7 +116,7 @@ Make sure to replace `"your-SSID"` and `"your-PASSWORD"` with your actual Wi-Fi 
 ### Summary
 Using the NodeMCU with an SD card module is the best option for hosting your HTML website given its built-in Wi-Fi capabilities and sufficient resources. This setup allows for a straightforward way to host and serve your web content over the internet.
 
-<img src="source/ArduinoUno.png" alt="Anomaly Detection" width="auto" height="auto" />
+<img src="source/ArduinoUno.jpg" alt="Anomaly Detection" width="auto" height="auto" />
 # using Arduino Uno
 
 Hosting an HTML website on an Arduino Uno and making it accessible over the internet is a challenging but interesting project due to the limited resources of the Arduino Uno. Here are the steps to achieve this:
